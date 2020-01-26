@@ -9,7 +9,7 @@ and others are calculations made by the module.
 
 One line installation with [npm](http://npmjs.org). 
 ```bash
-npm install os-utils
+npm install satanlabs
 ```
 
 Then in your code 
