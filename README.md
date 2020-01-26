@@ -4,6 +4,8 @@ os-utils
 An operating system utility library. Some methods are wrappers of node libraries
 and others are calculations made by the module.
 
+Code taken from : https://github.com/oscmejia/os-utils
+
 
 ## Installation
 
@@ -14,7 +16,7 @@ npm install satanlabs
 
 Then in your code 
 ```js
-var os 	= require('os-utils');
+var os 	= require('satanlabs');
 
 
 os.cpuUsage(function(v){
